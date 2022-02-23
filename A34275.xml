@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Congratulatory ode to Admiral Russel and the other sea-commanders for their late, glorious victory</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34275</idno>
+            <idno type="STC">Wing C5819</idno>
+            <idno type="STC">ESTC R2905</idno>
+            <idno type="EEBO-CITATION">11880148</idno>
+            <idno type="OCLC">ocm 11880148</idno>
+            <idno type="VID">50305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50305)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 23:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Congratulatory ode to Admiral Russel and the other sea-commanders for their late, glorious victory</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Jones,</publisher>
+                  <pubPlace>In the Savoy :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not to be confused with A congratulatory poem to the Honourable Admiral Russel, by Richard Bovet, 1693.  The present work begins: Welcom, ye worthies of the British isle.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Orford, Edward Russell, --  Earl of, 1653-1727 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50305:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:50305:1"/>
+            <!-- PDF PAGE 22 -->
+            <p>A Congratulatory ODE TO Admiral RUSSEL, And the other Sea-Commanders, For their late Glorious VICTORY.</p>
+            <figure>
+               <head>S</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>In the SAVOY:</hi> Printed by <hi>Edward Jones,</hi> in the Year 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:50305:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="3" facs="tcp:50305:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>A Congratulatory ODE to Admiral <hi>Ruſſel,</hi> &amp;c.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>WElcom, <hi>Ye Worthies of the Britiſh Iſle,</hi>
+               </l>
+               <l>Welcom from <hi>War's</hi> tumultuous Noiſe;</l>
+               <l>To <hi>Peace</hi> and <hi>Plenty's</hi> quiet Joys,</l>
+               <l>Joys bought for Us by your ſucceſsful Toile!</l>
+               <l>Loudly abroad the dreadful Tempeſts roar;</l>
+               <l>But You, <hi>Our Bulwark and Defence,</hi>
+               </l>
+               <l>Arreſt the baleful Influence,</l>
+               <l>And ſcarce their fainteſt Ecchoes reach the Shore:</l>
+               <l>Safely the diſtant Dangers We ſurvey,</l>
+               <l>Secur'd with <hi>Wooden Walls,</hi> and Guarded by the Sea.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Not ſo the <hi>French;</hi> who view'd with watry Eyes</l>
+               <l>Their Naval Strength at once o'rethrown;</l>
+               <l>A Loſs too Great and Publick grown,</l>
+               <l>For any <hi>Pageant Triumph</hi> to diſguiſe:</l>
+               <l>The Conq'ring Fleet does all her Canvas Wings diſplay;</l>
+               <l>And like <hi>the Royal Bird of Jove,</hi>
+               </l>
+               <l>Does with reſiſtleſs Fury move,</l>
+               <l>And ſeizes in its <hi>Neſt</hi> the trembling <hi>Prey:</hi>
+               </l>
+               <l>From the near Shore affrighted <hi>Normans</hi> ſee</l>
+               <l>The Flames of burning Squadrons upwards riſe,</l>
+               <l>A <hi>Bonfire</hi> fit to ſolemnize</l>
+               <l>So Great a Victory.</l>
+               <l>In vain <hi>at Land,</hi> by dull delays they ſtrive</l>
+               <l>Ingloriouſly to keep their dying Hopes alive;</l>
+               <l>In vain they ſhun the <hi>Engliſh</hi> Arms,</l>
+               <l>Nor anſwer <hi>Our Great Monarch's</hi> loud Alarms;</l>
+               <l>Whilſt unſecur'd by all the Arts of Fear,</l>
+               <l>
+                  <hi>His Preſence awes them there, his Influence ſtrikes them here.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>How bright and dazling was the Glorious Scene!</l>
+               <l>How rich the Trophies of the conquer'd Main!</l>
+               <l>
+                  <pb n="4" facs="tcp:50305:3"/>
+                  <!-- PDF PAGE 24 -->
+Room for the Valiant <hi>R<g ref="char:V">Ʋ</g>SSEL</hi> arm'd with Thunder;</l>
+               <l>See! how he breaks the <hi>Gallick Line</hi> in ſunder!</l>
+               <l>In vain the furious <hi>Elements</hi> conſpire,</l>
+               <l>
+                  <hi>Rocks, Winds,</hi> and <hi>Waves,</hi> and Hoſtile <hi>Fire;</hi>
+               </l>
+               <l>Undauntedly through <hi>All</hi> he ruſhes on;</l>
+               <l>Their Order's broke, the routed Squadron flies;</l>
+               <l>Down goes the <hi>Royal Sun,</hi>
+               </l>
+               <l>Down to the bottom, down,</l>
+               <l>And <hi>Sets in</hi> Flames, but never more to <hi>Riſe.</hi>
+               </l>
+               <l>
+                  <hi>France</hi> mourns her Navy; and this vaſt Defeat</l>
+               <l>Shews <hi>Louis</hi> only in his Loſſes <hi>Great.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Strongly this Great Example works on All;</l>
+               <l>Through ev'ry Ship, each Loyal Heart,</l>
+               <l>And Warlike Hand diſtinctly acts its Part;</l>
+               <l>So well they Copy out their great Original!</l>
+               <l>Some <hi>Live</hi> to Triumph on, ſome Conquer as they <hi>Fall:</hi>
+               </l>
+               <l>A Troop of Glorious Shades; while ev'ry Name</l>
+               <l>Shall Flouriſh ſtill, and <hi>Live</hi> in Fame,</l>
+               <l>Mention'd by ev'ry Tongue, where <hi>Honour</hi> is the Theme:</l>
+               <l>Yet let no mournful Sighs ariſe,</l>
+               <l>Let no ſalt Tears for Them be ſhed;</l>
+               <l>Whilſt to the <hi>Living Brave</hi> we Sacrifice</l>
+               <l>Our Sorrow for the <hi>Valiant Dead.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Go on, <hi>True Sons of Honour,</hi> ſtill advance</l>
+               <l>The <hi>Engliſh</hi> Glory, by depreſſing <hi>France:</hi>
+               </l>
+               <l>Go on to prove, how much a <hi>Royal Truſt</hi>
+               </l>
+               <l>Works upon Spirits that are <hi>Brave</hi> and <hi>Juſt:</hi>
+               </l>
+               <l>This <hi>Our Great Miſtreſs</hi> knew, whoſe piercing Eyes,</l>
+               <l>Unprejudic'd by Lying Calumnies,</l>
+               <l>Could look through ev'ry faithful Breaſt;</l>
+               <l>And ſaw the <hi>Loyal Zeal</hi> they afterwards expreſt:</l>
+               <l>Continue ſtill to prop that awful Throne,</l>
+               <l>Which joins <hi>the Subjects Int'reſt</hi> with <hi>its Own:</hi>
+               </l>
+               <l>Whilſt <hi>France</hi> by ſad Experience learns from <hi>You,</hi>
+               </l>
+               <l>What <hi>WILLIAM's Thunder,</hi> plac'd in a <hi>Good Hand,</hi> can do.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50305:3"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
